@@ -8,7 +8,7 @@ function TitleImage(props) {
             <h3>
                 Adventure of the Teen Ninja
             </h3>
-            <h5 style={{paddingTop: '5rem'}}>
+            <h5 style={{paddingTop: '2rem'}}>
                 A stealth mission game by 34 Studios
             </h5>
         </div>

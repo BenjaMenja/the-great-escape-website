@@ -1,4 +1,4 @@
-import {Button, Collapse, Nav, Navbar, NavItem, NavLink} from "reactstrap";
+import {Button, Collapse, List} from "reactstrap";
 import {useState} from "react";
 
 function Design() {
@@ -8,39 +8,27 @@ function Design() {
     }
     return (
         <div>
-            <Button onClick={toggle} color={'primary'}>
+            <Button onClick={toggle} color={'primary'} style={{marginBottom: '2rem'}}>
                 <a>Asset List</a>
             </Button>
             <Collapse vertical isOpen={collapsed}>
-                <Navbar style={{
-                    display: 'flex',
-                    height: '7.5vh',
-                    fontSize: '1.2rem',
-                    alignItems: "center"
-                }}>
-                    <Nav className={"mx-auto"}>
-                        <NavItem>
-                            <NavLink href="/design/environment" className={"mx-4"} style={{color: '#000000'}}>
-                                Environment
-                            </NavLink>
-                        </NavItem>
-                        <NavItem>
-                            <NavLink href="/design/characters" className={"mx-4"} style={{color: '#000000'}}>
-                                Characters
-                            </NavLink>
-                        </NavItem>
-                        <NavItem>
-                            <NavLink href="/design/objects" className={"mx-4"} style={{color: '#000000'}}>
-                                Objects
-                            </NavLink>
-                        </NavItem>
-                        <NavItem>
-                            <NavLink href="/design/objects" className={"mx-4"} style={{color: '#000000'}}>
-                                Objects
-                            </NavLink>
-                        </NavItem>
-                    </Nav>
-                </Navbar>
+                <List type={"unstyled"}>
+                    <li style={{marginBottom: '1rem'}}>
+                        <Button onClick={() => {window.location.href = '/design/environment'}}>
+                            <a>Environment</a> <i className={'bi-arrow-right'}></i>
+                        </Button>
+                    </li>
+                    <li style={{marginBottom: '1rem'}}>
+                        <Button onClick={() => {window.location.href = '/design/characters'}}>
+                            <a>Characters</a> <i className={'bi-arrow-right'}></i>
+                        </Button>
+                    </li>
+                    <li style={{marginBottom: '1rem'}}>
+                        <Button onClick={() => {window.location.href = '/design/objects'}}>
+                            <a>Objects</a> <i className={'bi-arrow-right'}></i>
+                        </Button>
+                    </li>
+                </List>
             </Collapse>
         </div>
     )
