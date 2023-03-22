@@ -4,7 +4,6 @@ function MyNavbar() {
     return (
         <div>
             <Navbar color='dark' dark style={{
-                background: '#000000',
                 display: 'flex',
                 height: '8.5vh',
                 marginBottom: '5rem',
