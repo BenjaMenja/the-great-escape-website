@@ -18,7 +18,7 @@ function App() {
           <TitleImage padding={'2rem'}/>
           <MyNavbar />
       </header>
-        <Router>
+        <Router basename={'the-great-escape-website'}>
             <Routes>
                 <Route exact path={'/'} element={<Home />} />
                 <Route exact path={'/people'} element={<People />} />
