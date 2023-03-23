@@ -12,22 +12,22 @@ function MyNavbar() {
             }}>
                 <Nav className="mx-auto">
                     <NavItem>
-                        <NavLink href="/" className='mx-4' style={{color: '#FFFFFF'}}>
+                        <NavLink href="/the-great-escape-website" className='mx-4' style={{color: '#FFFFFF'}}>
                             Home
                         </NavLink>
                     </NavItem>
                     <NavItem>
-                        <NavLink href="/people" className='mx-4' style={{color: '#FFFFFF'}}>
+                        <NavLink href="/the-great-escape-website/people" className='mx-4' style={{color: '#FFFFFF'}}>
                             People
                         </NavLink>
                     </NavItem>
                     <NavItem>
-                        <NavLink href="/design" className='mx-4' style={{color: '#FFFFFF'}}>
+                        <NavLink href="/the-great-escape-website/design" className='mx-4' style={{color: '#FFFFFF'}}>
                             Design
                         </NavLink>
                     </NavItem>
                     <NavItem>
-                        <NavLink href="/download" className='mx-4' style={{color: '#FFFFFF'}}>
+                        <NavLink href="/the-great-escape-website/download" className='mx-4' style={{color: '#FFFFFF'}}>
                             Download
                         </NavLink>
                     </NavItem>
