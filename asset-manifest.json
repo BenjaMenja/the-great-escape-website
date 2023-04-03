@@ -1,17 +1,30 @@
 {
   "files": {
     "main.css": "/the-great-escape-website/static/css/main.86be653f.css",
-    "main.js": "/the-great-escape-website/static/js/main.3bd0c8ba.js",
+    "main.js": "/the-great-escape-website/static/js/main.d85013c8.js",
     "static/js/787.08f4a62c.chunk.js": "/the-great-escape-website/static/js/787.08f4a62c.chunk.js",
+    "static/media/living_room.png": "/the-great-escape-website/static/media/living_room.0710d6401fa0e0e6566a.png",
+    "static/media/bedroom.png": "/the-great-escape-website/static/media/bedroom.58f0e2849193ae703692.png",
+    "static/media/house.png": "/the-great-escape-website/static/media/house.275f0aa7cbd77c36481a.png",
+    "static/media/procedural_cabinet.png": "/the-great-escape-website/static/media/procedural_cabinet.68a36861a9313434a639.png",
+    "static/media/procedural_shelf.png": "/the-great-escape-website/static/media/procedural_shelf.d43f8e9734fce663705b.png",
     "static/media/bootstrap-icons.woff?": "/the-great-escape-website/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
     "static/media/bootstrap-icons.woff2?": "/the-great-escape-website/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/microwave.png": "/the-great-escape-website/static/media/microwave.0af77b529ec06e1d3d3a.png",
+    "static/media/daughter_front.png": "/the-great-escape-website/static/media/daughter_front.4a0fbb225bfc018940c4.png",
+    "static/media/fridge.png": "/the-great-escape-website/static/media/fridge.6a78598fea159ded027c.png",
+    "static/media/aunt_front.png": "/the-great-escape-website/static/media/aunt_front.74de48717a4d89e03f9b.png",
+    "static/media/mother_front.png": "/the-great-escape-website/static/media/mother_front.7b0e1b0f84b198aa81ef.png",
+    "static/media/aunt_side.png": "/the-great-escape-website/static/media/aunt_side.888c12dbb3efe08861f0.png",
+    "static/media/mother_side.png": "/the-great-escape-website/static/media/mother_side.549517cfccc04de6fd83.png",
+    "static/media/daughter_side.png": "/the-great-escape-website/static/media/daughter_side.9a691368afa856c1fa06.png",
     "index.html": "/the-great-escape-website/index.html",
     "main.86be653f.css.map": "/the-great-escape-website/static/css/main.86be653f.css.map",
-    "main.3bd0c8ba.js.map": "/the-great-escape-website/static/js/main.3bd0c8ba.js.map",
+    "main.d85013c8.js.map": "/the-great-escape-website/static/js/main.d85013c8.js.map",
     "787.08f4a62c.chunk.js.map": "/the-great-escape-website/static/js/787.08f4a62c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86be653f.css",
-    "static/js/main.3bd0c8ba.js"
+    "static/js/main.d85013c8.js"
   ]
 }
