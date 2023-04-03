@@ -20,13 +20,13 @@ function App() {
       </header>
         <Router>
             <Routes>
-                <Route exact path={'/'} element={<Home />} />
-                <Route exact path={'/people'} element={<People />} />
-                <Route exact path={'/design'} element={<Design />} />
-                    <Route path={'/design/environment'} element={<Environment />} />
-                    <Route path={'/design/characters'} element={<Characters />} />
-                    <Route path={'/design/objects'} element={<Objects />} />
-                <Route exact path={'/download'} element={<Download />} />
+                <Route path={'/the-great-escape-website'} element={<Home />} />
+                <Route path={'/the-great-escape-website/people'} element={<People />} />
+                <Route path={'/the-great-escape-website/design'} element={<Design />} />
+                    <Route path={'/the-great-escape-website/design/environment'} element={<Environment />} />
+                    <Route path={'/the-great-escape-website/design/characters'} element={<Characters />} />
+                    <Route path={'/the-great-escape-website/design/objects'} element={<Objects />} />
+                <Route path={'/the-great-escape-website/download'} element={<Download />} />
             </Routes>
         </Router>
         <footer>

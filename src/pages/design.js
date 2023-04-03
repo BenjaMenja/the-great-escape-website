@@ -14,17 +14,17 @@ function Design() {
             <Collapse vertical isOpen={collapsed}>
                 <List type={"unstyled"}>
                     <li style={{marginBottom: '1rem'}}>
-                        <Button onClick={() => {window.location.href = '/design/environment'}}>
+                        <Button onClick={() => {window.location.href = '/the-great-escape-website/design/environment'}}>
                             <a>Environment</a> <i className={'bi-arrow-right'}></i>
                         </Button>
                     </li>
                     <li style={{marginBottom: '1rem'}}>
-                        <Button onClick={() => {window.location.href = '/design/characters'}}>
+                        <Button onClick={() => {window.location.href = '/the-great-escape-website/design/characters'}}>
                             <a>Characters</a> <i className={'bi-arrow-right'}></i>
                         </Button>
                     </li>
                     <li style={{marginBottom: '1rem'}}>
-                        <Button onClick={() => {window.location.href = '/design/objects'}}>
+                        <Button onClick={() => {window.location.href = '/the-great-escape-website/design/objects'}}>
                             <a>Objects</a> <i className={'bi-arrow-right'}></i>
                         </Button>
                     </li>
