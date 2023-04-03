@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/the-great-escape-website/static/css/main.86be653f.css",
-    "main.js": "/the-great-escape-website/static/js/main.d85013c8.js",
+    "main.js": "/the-great-escape-website/static/js/main.419f8e8d.js",
     "static/js/787.08f4a62c.chunk.js": "/the-great-escape-website/static/js/787.08f4a62c.chunk.js",
     "static/media/living_room.png": "/the-great-escape-website/static/media/living_room.0710d6401fa0e0e6566a.png",
     "static/media/bedroom.png": "/the-great-escape-website/static/media/bedroom.58f0e2849193ae703692.png",
@@ -20,11 +20,11 @@
     "static/media/daughter_side.png": "/the-great-escape-website/static/media/daughter_side.9a691368afa856c1fa06.png",
     "index.html": "/the-great-escape-website/index.html",
     "main.86be653f.css.map": "/the-great-escape-website/static/css/main.86be653f.css.map",
-    "main.d85013c8.js.map": "/the-great-escape-website/static/js/main.d85013c8.js.map",
+    "main.419f8e8d.js.map": "/the-great-escape-website/static/js/main.419f8e8d.js.map",
     "787.08f4a62c.chunk.js.map": "/the-great-escape-website/static/js/787.08f4a62c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86be653f.css",
-    "static/js/main.d85013c8.js"
+    "static/js/main.419f8e8d.js"
   ]
 }
