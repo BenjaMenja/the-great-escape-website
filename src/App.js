@@ -9,6 +9,7 @@ import Design from "./pages/design";
 import Environment from "./pages/design/environment";
 import Characters from "./pages/design/characters";
 import Objects from "./pages/design/objects";
+import DeveloperBlog from "./pages/DeveloperBlog";
 
 function App() {
 
@@ -26,6 +27,7 @@ function App() {
                     <Route path={'/the-great-escape-website/design/environment'} element={<Environment />} />
                     <Route path={'/the-great-escape-website/design/characters'} element={<Characters />} />
                     <Route path={'/the-great-escape-website/design/objects'} element={<Objects />} />
+                <Route path={'/the-great-escape-website/dev-log'} element={<DeveloperBlog />} />
                 <Route path={'/the-great-escape-website/download'} element={<Download />} />
             </Routes>
         </Router>

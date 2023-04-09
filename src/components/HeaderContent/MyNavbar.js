@@ -27,6 +27,11 @@ function MyNavbar() {
                         </NavLink>
                     </NavItem>
                     <NavItem>
+                        <NavLink href="/the-great-escape-website/dev-log" className='mx-4' style={{color: '#FFFFFF'}}>
+                            Developer Blog
+                        </NavLink>
+                    </NavItem>
+                    <NavItem>
                         <NavLink href="/the-great-escape-website/download" className='mx-4' style={{color: '#FFFFFF'}}>
                             Download
                         </NavLink>
