@@ -2,8 +2,7 @@ function Download() {
     return (
         <div>
             <h1>
-                {/*TODO: Add downloads as the alpha/beta are released*/}
-                No downloads available at the moment, check back later!
+                <a href={'https://github.com/BenjaMenja/The-Great-Escape/releases/tag/v1.0.0-alpha'}>Alpha Download</a>
             </h1>
         </div>
     )

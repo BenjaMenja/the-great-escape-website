@@ -5,15 +5,24 @@ function DeveloperBlog() {
         <div>
             <WeeklyReport dates={'2023-4-2 - 2023-4-8'} techentries={[
                 'Game Over screen',
+                'Win screen',
+                'Game Over conditions',
+                'Options Menu',
                 'Visual player detection AI',
                 'Reticle',
                 'AI patrolling',
                 'Pickup object physics',
                 'Highlights based on player camera',
-                'Microwave and Diffuser'
+                'Microwave and Diffuser',
+                'Mom, Aunt, and Dad player detection finished',
+                'Sound effects implemented'
             ]} artentries={[
                 'Microwave and Fridge fully rigged',
-                'Modeling and UV maps of static assets'
+                'Player, Mom, and Aunt modeled',
+                'Modeling and UV maps of static assets',
+                'Models for Key, Burrito, and Essential Oil Items',
+                'Bed Model',
+                'Map arrangement updates'
             ]}/>
             <WeeklyReport dates={'2023-3-26 - 2023-4-1'} techentries={[
                 'Character Movement',
