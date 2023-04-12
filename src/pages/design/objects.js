@@ -1,8 +1,7 @@
 import DesignReturn from "../../components/design/DesignReturn";
 import {Col, Row} from "reactstrap";
 import ImageCaption from "../../components/design/ImageCaption";
-import fridge from "../../images/fridge.png"
-import microwave from "../../images/microwave.png"
+import microwavefridge from "../../images/microwave-fridge-opening.gif";
 
 function Objects() {
     return (
@@ -13,12 +12,11 @@ function Objects() {
             <DesignReturn />
             <div style={{margin: "auto", width: '80%'}}>
                 <Row>
-                    <Col md={'6'}>
-                        <ImageCaption source={fridge} caption="Fridge" width={'80%'}/>
-                    </Col>
-                    <Col md={'6'}>
-                        <ImageCaption source={microwave} caption="Microwave" width={'97%'} />
-                    </Col>
+                    <Row>
+                        <Col md={'6'}>
+                            <ImageCaption source={microwavefridge} caption={"Microwave and Fridge"} width={"90%"}/>
+                        </Col>
+                    </Row>
                 </Row>
             </div>
             <DesignReturn />
