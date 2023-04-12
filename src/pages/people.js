@@ -21,19 +21,25 @@ function People() {
                     <li>
                         Gameplay Programmer and Designer
                     </li>
+                    <li>
+                        UI Integration
+                    </li>
                 </List>
                 <h4>
                     Andrew Hariyanto
                 </h4>
                 <List>
                     <li>
-                        AI Programming
-                    </li>
-                    <li>
                         Level Designer
                     </li>
                     <li>
                         UI Integration
+                    </li>
+                    <li>
+                        Art Integration
+                    </li>
+                    <li>
+                        Sound Effects
                     </li>
                 </List>
                 <h4>
@@ -42,6 +48,9 @@ function People() {
                 <List>
                     <li>
                         Gameplay Programmer
+                    </li>
+                    <li>
+                        Art Integration
                     </li>
                     <li>
                         Lead website designer
@@ -55,7 +64,7 @@ function People() {
                         Gameplay Programmer
                     </li>
                     <li>
-                        Art Integration
+                        AI Programming
                     </li>
                 </List>
                 <h2 style={{paddingTop: '2rem', paddingBottom: '2rem'}}>
