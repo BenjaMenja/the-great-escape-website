@@ -3,6 +3,18 @@ import WeeklyReport from "../components/DeveloperBlog/weeklyreport";
 function DeveloperBlog() {
     return(
         <div>
+            <WeeklyReport dates={'2023-4-16 - 2023-4-22'} teamentries={[
+                'Playtest build completed'
+            ]} techentries={[
+                'Implementing Animations for characters and placed objects',
+                'Added sound effects',
+                'Improved menus',
+                'Fixed held item socket'
+            ]} artentries={[
+                'Improved static assets',
+                'Animations for characters',
+                'TV Video'
+            ]}/>
             <WeeklyReport dates={'2023-4-9 - 2023-4-15'} teamentries={[
                 'Final alpha build completed',
                 'Playtest build started',

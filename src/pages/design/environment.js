@@ -6,7 +6,7 @@ import shelf from "../../images/procedural_shelf.png"
 import livingroomkitchen from "../../images/living_room_kitchen.png"
 import bedroom from "../../images/bedroom.png"
 import modelassets from "../../images/model-assets.png"
-
+import StaticAssets from "../../images/StaticAssets.png"
 
 function Environment() {
     return(
@@ -35,6 +35,9 @@ function Environment() {
                 <Row>
                     <Col md={'6'}>
                         <ImageCaption source={modelassets} caption={"All Modelled Assets"} width={"100%"} />
+                    </Col>
+                    <Col md={'6'}>
+                        <ImageCaption source={StaticAssets} caption={"Updated Modelled Assets"} width={'100%'} />
                     </Col>
                 </Row>
             </div>
