@@ -9,11 +9,13 @@ function DeveloperBlog() {
                 'Implementing Animations for characters and placed objects',
                 'Added sound effects',
                 'Improved menus',
-                'Fixed held item socket'
+                'Temp fixed held item socket',
+                'Clutter and food items'
             ]} artentries={[
                 'Improved static assets',
                 'Animations for characters',
-                'TV Video'
+                'TV Video',
+                'Assets for filler items'
             ]}/>
             <WeeklyReport dates={'2023-4-9 - 2023-4-15'} teamentries={[
                 'Final alpha build completed',
