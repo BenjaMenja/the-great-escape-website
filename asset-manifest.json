@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/the-great-escape-website/static/css/main.86be653f.css",
-    "main.js": "/the-great-escape-website/static/js/main.39981b9b.js",
+    "main.js": "/the-great-escape-website/static/js/main.c00f74fa.js",
     "static/js/787.08f4a62c.chunk.js": "/the-great-escape-website/static/js/787.08f4a62c.chunk.js",
     "static/media/cabinets.gif": "/the-great-escape-website/static/media/cabinets.4d9f46283cc42646a71c.gif",
     "static/media/microwave-fridge-opening.gif": "/the-great-escape-website/static/media/microwave-fridge-opening.6c65c5ab623880fcb4fa.gif",
     "static/media/living_room_kitchen.png": "/the-great-escape-website/static/media/living_room_kitchen.d29607f88008d3b460c1.png",
     "static/media/bedroom.png": "/the-great-escape-website/static/media/bedroom.0499a45e6c1f6ff47233.png",
     "static/media/procedural_shelf.png": "/the-great-escape-website/static/media/procedural_shelf.d43f8e9734fce663705b.png",
+    "static/media/Girl_Side.png": "/the-great-escape-website/static/media/Girl_Side.e30b2be6d77177bcc438.png",
+    "static/media/Girl_Front.png": "/the-great-escape-website/static/media/Girl_Front.d1000b7fb8a61a909ddf.png",
     "static/media/model-assets.png": "/the-great-escape-website/static/media/model-assets.7552a1d0c57447672550.png",
     "static/media/bootstrap-icons.woff?": "/the-great-escape-website/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
     "static/media/StaticAssets.png": "/the-great-escape-website/static/media/StaticAssets.37dfa8b5c968e9a1d472.png",
@@ -17,11 +19,11 @@
     "static/media/g_controls.PNG": "/the-great-escape-website/static/media/g_controls.2fc4e3d7093fb8859663.PNG",
     "index.html": "/the-great-escape-website/index.html",
     "main.86be653f.css.map": "/the-great-escape-website/static/css/main.86be653f.css.map",
-    "main.39981b9b.js.map": "/the-great-escape-website/static/js/main.39981b9b.js.map",
+    "main.c00f74fa.js.map": "/the-great-escape-website/static/js/main.c00f74fa.js.map",
     "787.08f4a62c.chunk.js.map": "/the-great-escape-website/static/js/787.08f4a62c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86be653f.css",
-    "static/js/main.39981b9b.js"
+    "static/js/main.c00f74fa.js"
   ]
 }
