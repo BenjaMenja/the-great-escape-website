@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/the-great-escape-website/static/css/main.86be653f.css",
-    "main.js": "/the-great-escape-website/static/js/main.6d958088.js",
+    "main.js": "/the-great-escape-website/static/js/main.b05cd137.js",
     "static/js/787.08f4a62c.chunk.js": "/the-great-escape-website/static/js/787.08f4a62c.chunk.js",
     "static/media/cabinets.gif": "/the-great-escape-website/static/media/cabinets.4d9f46283cc42646a71c.gif",
     "static/media/microwave-fridge-opening.gif": "/the-great-escape-website/static/media/microwave-fridge-opening.6c65c5ab623880fcb4fa.gif",
@@ -19,11 +19,11 @@
     "static/media/g_controls.PNG": "/the-great-escape-website/static/media/g_controls.2fc4e3d7093fb8859663.PNG",
     "index.html": "/the-great-escape-website/index.html",
     "main.86be653f.css.map": "/the-great-escape-website/static/css/main.86be653f.css.map",
-    "main.6d958088.js.map": "/the-great-escape-website/static/js/main.6d958088.js.map",
+    "main.b05cd137.js.map": "/the-great-escape-website/static/js/main.b05cd137.js.map",
     "787.08f4a62c.chunk.js.map": "/the-great-escape-website/static/js/787.08f4a62c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86be653f.css",
-    "static/js/main.6d958088.js"
+    "static/js/main.b05cd137.js"
   ]
 }
