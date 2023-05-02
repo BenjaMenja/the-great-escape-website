@@ -19,10 +19,13 @@ function People() {
                         Project Leader
                     </li>
                     <li>
+                        Level Designer
+                    </li>
+                    <li>
                         Gameplay Programmer and Designer
                     </li>
                     <li>
-                        UI Integration
+                        UI Design & Integration
                     </li>
                 </List>
                 <h4>
@@ -30,10 +33,10 @@ function People() {
                 </h4>
                 <List>
                     <li>
-                        Level Designer
+                        Gameplay Programmer
                     </li>
                     <li>
-                        UI Integration
+                        Level Designer
                     </li>
                     <li>
                         Art Integration
@@ -50,6 +53,9 @@ function People() {
                         Gameplay Programmer
                     </li>
                     <li>
+                        Level Designer
+                    </li>
+                    <li>
                         Art Integration
                     </li>
                     <li>
@@ -64,7 +70,13 @@ function People() {
                         Gameplay Programmer
                     </li>
                     <li>
+                        Level Designer
+                    </li>
+                    <li>
                         AI Programming
+                    </li>
+                    <li>
+                        Animation Integration
                     </li>
                 </List>
                 <h2 style={{paddingTop: '2rem', paddingBottom: '2rem'}}>
@@ -78,13 +90,10 @@ function People() {
                         3D environment asset production
                     </li>
                     <li>
-                        Level / environment art
+                        Level / Environment art
                     </li>
                     <li>
                         Lighting
-                    </li>
-                    <li>
-                        Special effects
                     </li>
                 </List>
                 <h4>
@@ -95,10 +104,13 @@ function People() {
                         3D character asset production
                     </li>
                     <li>
-                        Animation
+                        Character Rigging
                     </li>
                     <li>
-                        Motion capture
+                        Cloth Simulation
+                    </li>
+                    <li>
+                        Animation
                     </li>
                 </List>
             </Col>
