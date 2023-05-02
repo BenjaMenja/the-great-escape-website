@@ -5,12 +5,9 @@ function TitleImage(props) {
             <h1 style={{paddingTop: '5rem'}}>
                 The Great Escape
             </h1>
-            <h3>
-                Adventure of the Teen Ninja
-            </h3>
-            <h5 style={{paddingTop: '2rem'}}>
+            <h3 style={{paddingTop: '2rem'}}>
                 A stealth mission game by 34 Studios
-            </h5>
+            </h3>
         </div>
     )
 }
